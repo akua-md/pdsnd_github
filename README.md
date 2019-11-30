@@ -17,5 +17,7 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-https://classroom.udacity.com/nanodegrees/
+Core: https://classroom.udacity.com/nanodegrees/
+Ready: https://stackoverflow.com/questions
+
 
