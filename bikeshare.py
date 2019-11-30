@@ -15,7 +15,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello Welcome to the Bikeshare Centre! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     
     city_list=['new york city','chicago','washington']
@@ -165,7 +165,7 @@ def trip_duration_stats(df):
         print(total_travel_time.head(i))
         i = i+ 5
         
-        x=str(input("Do you want to continue? yes / no  --- ").lower())
+        x=str(input("Do you want to continue? yes / no  --- \n").lower())
     
 
     # TO DO: display mean travel time
