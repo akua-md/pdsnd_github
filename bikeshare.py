@@ -165,7 +165,7 @@ def trip_duration_stats(df):
         print(total_travel_time.head(i))
         i = i+ 5
         
-        x=str(input("Do you want to continue? yes / no  --- ").lower())
+        x=str(input("Do you want to continue? yes / no  --- \n").lower())
     
 
     # TO DO: display mean travel time
